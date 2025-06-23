@@ -23,8 +23,4 @@ To clean and prepare raw data for machine learning using Pandas, NumPy, and Seab
 - Cleaned and ready dataset for ML.
 - Nulls handled, features encoded and scaled, outliers removed.
 
-## 📎 Dataset
-Titanic Dataset from [Data Science Dojo GitHub Repo](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 
-## 📷 Screenshots
-(Include screenshots in the `screenshots/` folder if applicable.)
